@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""join this group forr help-- @GbotStoreSupport\n\n And Hi buddy <a href="https://telegra.ph/file/076ec40eb86abdffad365.jpg">Hi buddy </a>""", enable_web_page_preview=True)
+    await message.reply_text("""join this group forr help-- @GbotStoreSupport\n\n Hi buddy <a href="https://telegra.ph/file/076ec40eb86abdffad365.jpg">!</a>""", enable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
