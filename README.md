@@ -47,6 +47,8 @@ d)Tap to edit and just add `n` at last of name (Don't touch code🤦). ✍️
 e)It should look like `app.json`. 🎉
 
 f)Then tap 👇👇
+       !
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
  Heroku is not supported now 😕 #Dead
 
